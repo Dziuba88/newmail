@@ -1,0 +1,19 @@
+table {
+  width: 100%;
+  background: #90c0f0;
+  border: 2px solid #fff;
+  margin: 0;
+  width: 600px;
+}
+
+table.rsp {
+  float: left;
+  width: 33.3%;
+  text-align: left;
+
+  th,
+  td {
+    padding: 5px 10px;
+    border-bottom: 1px solid rgba(white, 0.5);
+  }
+}
